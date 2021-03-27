@@ -16,6 +16,7 @@ use. The project will be viewed from an entrepreneurial perspective, i.e., stude
 treated as start-up companies that are designing and developing an innovative idea! The web
 application should be complex enough to incorporate forms, interaction with database, clientside
 interaction with JavaScript and Ajax and server-side interaction with PHP.
+* Project completion date: 12/10/2020
 
 ## My contributions
 * For this project, I served as the _leader/project manager_ who led the team through all the phases of the software development. On top of that, I led the team in the testing effort to test the software for correctness and robustness.
