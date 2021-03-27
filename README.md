@@ -1,10 +1,15 @@
 # Todo App
+_Why use different applications when all of your common activities can be tracked with one simple, easy, and seamless app?_
+
+On the To-Do App, include a task list of your most common activities so that all will be put in one place. HTML will be used to structure the aspects of the web page, while CSS will be used for the aesthetics and design to improve readability. JavaScript will be applied when a user completes a task, employing the script to remove it. The use of PHP and MySQL will be to handle database access capabilities and server side execution, for example how often a user is prompted for completion of something on their to-do list. Using AJAX, multiple to-do lists can be loaded without redirecting to another page.
+
  *This is a semester long project for our IS 448 class. The contributors for this project are:*
  1. Miguel Arana
  2. Adrian Beckmann
  3. Peter Bwewusa
  4. Mehar Malik
  5. Stephen Otto
+
  
 ## About IS 448 
 * _IS 448 - Markup and Scripting Languages_ covers the history, theory, and practice of markup languages and their associated scripting languages. 
@@ -18,7 +23,7 @@ application should be complex enough to incorporate forms, interaction with data
 interaction with JavaScript and Ajax and server-side interaction with PHP.
 * Project completion date: 12/10/2020
 
-## My contributions
+## Miguel Arana Contributions
 * For this project, I served as the _leader/project manager_ who led the team through all the phases of the software development. On top of that, I led the team in the testing effort to test the software for correctness and robustness.
 * I was responsible for the **Manage Profile** use case, which enables the user to change their profile information. 
   * Input will be the new credentials such as Name, Username, or Password into a text box form. A PHP script will update the Accounts table in the MySQL database based on the new input that the user provided.
