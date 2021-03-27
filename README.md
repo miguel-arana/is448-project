@@ -35,4 +35,5 @@ interaction with JavaScript and Ajax and server-side interaction with PHP.
   * [homepage.php](https://github.com/miguel-arana/is448-project/blob/main/homepage.php)
   * [style.css](https://github.com/miguel-arana/is448-project/blob/main/styles.css)
 
-[Final Demo Slides.pptx](https://github.com/miguel-arana/is448-project/files/6216055/Final.Demo.Slides.pptx)
+## Final Demo Slides
+[Final Demo Slides.pdf](https://github.com/miguel-arana/is448-project/files/6216057/Final.Demo.Slides.pdf)
