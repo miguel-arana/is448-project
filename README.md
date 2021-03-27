@@ -7,7 +7,8 @@
  5. Stephen Otto
  
 ## About IS 448 
-* _IS 448 - Markup and Scripting Languages_ covers the history, theory, and practice of markup languages and their associated scripting languages. This course covers client-side web technology, such as Javascript and server-side web technology, such PHP, markup languages, such as XML, and common databases used with web technology.
+* _IS 448 - Markup and Scripting Languages_ covers the history, theory, and practice of markup languages and their associated scripting languages. 
+* This course covers client-side web technology, such as **Javascript** and server-side web technology, such as **PHP**, markup languages, **XML**, and common databases used with web technology.
 
 ## About the project
 * Students are expected to work in groups to develop a web application with real-life, practical
