@@ -35,5 +35,14 @@ interaction with JavaScript and Ajax and server-side interaction with PHP.
   * [homepage.php](https://github.com/miguel-arana/is448-project/blob/main/homepage.php)
   * [style.css](https://github.com/miguel-arana/is448-project/blob/main/styles.css)
 
+## Adrian Beckmann Contributions
+* For this project, I was in charge of the Schedule page and worked with the group to ensure everything worked and fit the look we wanted everything to be.
+* The Schedule page allowed for a user to create a class schedule as well as showing the classes that would occur on the current day of the week which they could then choose to mark as having attended.
+* The inputs included the class information such as name, number, start time, end time, and days that the class occurs.
+* The files I specifically worked on were:
+  * [classSchedule.js](https://github.com/miguel-arana/todoapp-is448-group-project/blob/main/classSchedule.js)
+  * [classSchedule.php](https://github.com/miguel-arana/todoapp-is448-group-project/blob/main/classSchedule.php)
+  * [style.css](https://github.com/miguel-arana/todoapp-is448-group-project/blob/main/style.css)
+
 ## Final Demo Slides
 [Final Demo Slides.pdf](https://github.com/miguel-arana/is448-project/files/6216057/Final.Demo.Slides.pdf)
